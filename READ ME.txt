@@ -1,0 +1,12 @@
+to run scala code on spark shell, run the following commands on command prompt
+-spark-shell
+- :load Scala_stat.scala
+
+question 4 
+the code for question 4 is named 'analytics with pyspark' as a jupyter file
+install pyspark before running
+
+question 5
+section j code is : question5j
+section k part1 , code is : question5k_1
+section k part 2 , code is : question5k_2
